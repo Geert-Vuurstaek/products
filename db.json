@@ -1,0 +1,94 @@
+{
+    "products": {
+        "fruits": [
+            {
+                "name": "Apples",
+                "information": "Crisp and sweet, great for snacking or baking.",
+                "seasonAvailability": "Fall",
+                "image": "assets/apple.jpg"
+            },
+            {
+                "name": "Strawberries",
+                "information": "Juicy and red, great for desserts and salads.",
+                "seasonAvailability": "Spring to Summer",
+                "image": "assets/strawberry.jpg"
+            },
+            {
+                "name": "Blueberries",
+                "information": "Sweet and nutritious, perfect for snacks and desserts.",
+                "seasonAvailability": "Summer",
+                "image": "assets/blueberry.jpg"
+            },
+            {
+                "name": "Pears",
+                "information": "Soft and juicy, great for eating fresh or cooking.",
+                "seasonAvailability": "Fall",
+                "image": "assets/pear.jpg"
+            }
+        ],
+        "vegetables": [
+            {
+                "name": "Carrots",
+                "information": "Crunchy and sweet, great for snacking or cooking.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/carrot.jpg"
+            },
+            {
+                "name": "Tomatoes",
+                "information": "Juicy and versatile, perfect for salads and sauces.",
+                "seasonAvailability": "Summer",
+                "image": "assets/tomato.jpg"
+            }, 
+            {
+                "name": "Cucumbers",
+                "information": "Crisp and refreshing, perfect for salads.",
+                "seasonAvailability": "Summer",
+                "image": "assets/cucumber.jpg"
+            },
+            {
+                "name": "Broccoli",
+                "information": "Rich in vitamins, great for steaming or stir-frying.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/broccoli.jpg"
+            },
+            {
+                "name": "Potatoes",
+                "information": "Versatile and hearty, great for mashing or roasting.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/potato.jpg"
+            },
+            {
+                "name": "Lettuce",
+                "information": "Crisp and refreshing, ideal for salads.",
+                "seasonAvailability": "Spring to Fall",
+                "image": "assets/lettuce.jpg"
+            }
+        ],
+        "dairy": [
+            {
+                "name": "Milk",
+                "information": "Rich in calcium, great for drinking or cooking.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/milk.jpg"
+            },
+            {
+                "name": "Cheese",
+                "information": "Variety of flavors and textures, perfect for snacking or cooking.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/cheese.jpg"
+            },
+            {
+                "name": "Yogurt",
+                "information": "Creamy and tangy, excellent for breakfast or smoothies.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/yogurt.jpg"
+            },
+            {
+                "name": "Butter",
+                "information": "Creamy and rich, ideal for baking and cooking.",
+                "seasonAvailability": "Year-round",
+                "image": "assets/butter.jpg"
+            }
+        ]
+    }
+}
